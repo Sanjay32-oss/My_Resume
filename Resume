@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sanjay kumar Resume</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+
+<body>
+    <h1 class="jd1">
+        SANJAY KUMAR</h1>
+    <hr>
+    <h2 class="jd2">
+        PERSONAL DETAILS <ul style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;"><ul>
+            <li>Name: Sanjay Kumar</li>
+            <li>Phone No: 8626985564</li>
+            <li>Age: 23</li>
+            <li>City: Hamirpur</li>
+            <li>State: Himacahal Pradesh</li>
+            <a href="mailto:sanjaykumar40638@gmail.com">Mail</a>
+            <button onclick="document.location='first.html'">SL</button>
+        </ul>
+    </h2>
+    <h1 style="margin-left: 6%;"><a href="https://instagram.com"><img src="Resume pic.jpg" alt="" width="120" height="125"></a></h1>
+    <hr>
+    <h2 class="jd7">
+        SUMMARY</h2>
+    <p style="margin-left: 6%; font-size: 20px; font-family: Georgia, 'Times New Roman', Times, serif;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates ipsum omnis quis, pariatur molestias et rem
+        dignissimos ad doloribus earum aspernatur dolorem reiciendis corrupti impedit cupiditate quibusdam! Ad, ullam
+        quae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum earum error, vitae nesciunt dolores,
+        recusandae quia, ipsa mollitia odit est ex placeat sapiente. A repellendus culpa est incidunt odio similique?
+    </p>
+    <hr>
+    <h2 class="jd3">HOBBIES
+        <ul>
+        <li>Reading Books</li>
+        <li>Play Online Games</li>
+        <li>listening Songs</li>
+        <li>Watch Movies</li>
+        <li>Writing</li>
+        <li>Photography</li>
+    </ul></h2>
+    <hr>
+    <h2 class="jd4">SKILLS <ul>
+        <li>Html</li>
+        <li>Css</li>
+        <li>Js</li>
+        <li>Php</li>
+        <li>Angular Js</li>
+    </ul></h2>
+    <hr>
+    <h2 class="jd5">PERSONAL PROJECTS
+        <ul>
+            <li>Toursim In HP</li>
+            <li>Sunrise Hotel Management </li>
+            <li>Games</li>
+            <li>Responsive Websites</li>
+            <li>Create Apps</li>
+        </ul>
+    </h2>
+    <hr>
+    <h2 class="jd6">LANGUAGES
+        <ul>
+            <li>English</li>
+            <li>Hindi</li>
+        </ul>
+    </h2>
+</body>
+
+</html>
